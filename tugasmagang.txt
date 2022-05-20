@@ -1,6 +1,6 @@
 Tugas Magang:
 -Instalasi windows 7
 -Menjalankan genset
--Instalasi kabel Ethernet
 -Belajar dokumentasi framework bootstrap
 -Belajar MySQL di PMA
+-Membuat CRUD php
