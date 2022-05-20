@@ -1,0 +1,4 @@
+Tugas Magang:
+-Instalasi windows 7
+-Menjalankan genset
+-Instalasi kabel Ethernet
